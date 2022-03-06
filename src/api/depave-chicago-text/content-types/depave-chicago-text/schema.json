@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "depave_chicago_texts",
+  "info": {
+    "singularName": "depave-chicago-text",
+    "pluralName": "depave-chicago-texts",
+    "displayName": "DepaveChicago-text"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text": {
+      "type": "richtext"
+    }
+  }
+}
